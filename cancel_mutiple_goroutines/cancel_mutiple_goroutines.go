@@ -1,0 +1,2 @@
+package cancel_mutiple_goroutines
+
